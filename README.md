@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @danielaghidini
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning Ruby / Rails
-<!-- - 💞️ I’m looking to collaborate on... -->
+- 🌱 I’m currently learning Ruby on Rails
 - 📫 How to reach me: daniela.ghidini@gmail.com
 
 <!---
