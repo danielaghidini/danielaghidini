@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @danielaghidini
-- 👀 I’m interested in web development
+- 👀 I’m passionate about web and game development
 - 🌱 I’m currently learning Flutter and Unity3D
 - 📫 How to reach me: daniela.ghidini@gmail.com
 
