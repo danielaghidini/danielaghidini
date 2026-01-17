@@ -1,4 +1,4 @@
-### HELLO THERE!
+### Hey There! I'm Daniela, Full Stack Developer, UI Enthusiast and Problem Solver!
 
 ```typescript
 import { FullStackDeveloper } from "universe";
@@ -17,7 +17,7 @@ class DanielaGhidini implements FullStackDeveloper {
 
   currentlyLearning: string[] = ["Game Development", "System Architecture"];
 
-  hobbies: string[] = ["Skyrim Modding", "Play Drums"];
+  hobbies: string[] = ["Skyrim Modding", "Playing Drums"];
 
   sayHello(): string {
     return "Let's build something awesome together!";
@@ -48,7 +48,7 @@ class DanielaGhidini implements FullStackDeveloper {
 
 <br/>
 
-### TERMINAL OUTPUT
+### Terminal Output
 
 <!-- STATS:START -->
 
