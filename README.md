@@ -1,3 +1,5 @@
+### HELLO THERE!
+
 ```typescript
 import { FullStackDeveloper } from "universe";
 
@@ -46,7 +48,7 @@ class DanielaGhidini implements FullStackDeveloper {
 
 <br/>
 
-### 📊 Terminal Output
+### TERMINAL OUTPUT
 
 <!-- STATS:START -->
 
@@ -56,7 +58,11 @@ class DanielaGhidini implements FullStackDeveloper {
    Commits:    1,234 (This Year)
    PRs:        42 Opened
    Issues:     10 Closed
-   Streak:     High 🔥
+   Streak:     On Fire! 🔥
 ```
 
 <!-- STATS:END -->
+
+<div align="center">
+  <img src="https://github.com/danielaghidini/danielaghidini/raw/output/github-contribution-grid-snake-dark.svg" />
+</div>

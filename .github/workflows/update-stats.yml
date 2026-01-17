@@ -1,0 +1,34 @@
+name: Update Terminal Stats
+
+on:
+  schedule:
+    # Run every day at midnight UTC
+    - cron: "0 0 * * *"
+  workflow_dispatch: # Allow manual triggering
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Important: allows the action to push changes
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: "18"
+
+      - name: Run Update Script
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/update_stats.js
+
+      - name: Commit and Push
+        run: |
+          git config --global user.name 'Connects Bot'
+          git config --global user.email 'bot@connects.dev'
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "update: terminal stats" && git push)
