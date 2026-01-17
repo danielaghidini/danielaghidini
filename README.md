@@ -51,16 +51,14 @@ class DanielaGhidini implements FullStackDeveloper {
 ### TERMINAL OUTPUT
 
 <!-- STATS:START -->
-
 ```bash
 > danielaghidini --stats
 
-   Commits:    1,234 (This Year)
-   PRs:        42 Opened
-   Issues:     10 Closed
+   Commits:    246 (This Year)
+   PRs:        15 Created
+   Issues:     0 Created
    Streak:     On Fire! 🔥
 ```
-
 <!-- STATS:END -->
 
 <div align="center">
