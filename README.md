@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Full Stack Software Engineer • UI/UX Designer<br/></h1>
+  <h1>Hi! I'm Dan! 👋</h1>
+  <h2>Full Stack Software Engineer • UI/UX Designer<br/></h2>
   <h3>// Tech Stack</h3>
   
   <!-- Backend -->
