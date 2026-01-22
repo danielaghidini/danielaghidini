@@ -1,31 +1,5 @@
-### Hey There! I'm Daniela, Full Stack Developer, UI Enthusiast and Problem Solver!
-
-```typescript
-import { FullStackDeveloper } from "universe";
-
-class DanielaGhidini implements FullStackDeveloper {
-  name: string = "Daniela Ghidini";
-  location: string = "Brazil, BR";
-
-  technicalSkills: {
-    backend: string[];
-    frontend: string[];
-  } = {
-    backend: ["Node.js", "Express", "Prisma", "PostgreSQL", "JWT"],
-    frontend: ["React", "TypeScript", "Tailwind", "Zustand", "Vitest"],
-  };
-
-  currentlyLearning: string[] = ["Game Development", "System Architecture"];
-
-  hobbies: string[] = ["Skyrim Modding", "Playing Drums"];
-
-  sayHello(): string {
-    return "Let's build something awesome together!";
-  }
-}
-```
-
 <div align="center">
+  <h1>Full Stack Software Engineer - UI/UX Designer</h1>
   <h3>// Tech Stack</h3>
   
   <!-- Backend -->
@@ -47,20 +21,3 @@ class DanielaGhidini implements FullStackDeveloper {
 </div>
 
 <br/>
-
-### Terminal Output
-
-<!-- STATS:START -->
-```bash
-> danielaghidini --stats
-
-   Commits:    251 (This Year)
-   PRs:        15 Created
-   Issues:     0 Created
-   Streak:     On Fire! 🔥
-```
-<!-- STATS:END -->
-
-<div align="center">
-  <img src="https://github.com/danielaghidini/danielaghidini/raw/output/github-contribution-grid-snake-dark.svg" />
-</div>
