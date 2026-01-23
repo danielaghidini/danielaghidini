@@ -1,12 +1,20 @@
-<div align="center">
-  <h1>Hi! I'm Dan! 👋</h1>
-  <h2>• Full Stack Software Engineer • UI/UX Designer •</h2>
-  <h3>// Tech Stack</h3>
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,js,ts,vitest,tailwind,materialui,figma" height="40" alt="Frontend Stack" />
-  </br>
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,postgres,php,wordpress,redux" height="40" alt="Backend Stack" />
+<div align="left">
+  
+  <h1>Hi! I'm Daniela! 👋</h1>
+<h2>Full Stack Software Engineer • UI/UX Designer</h2>
+<p>I turn ideas into intuitive, user-friendly experiences, focusing on design, usability, and clean implementations.</p>
 
+<h3>🛠 Tech Stack</h3>
 
-</div>
+Front-end: React, TypeScript, Tailwind, Material UI, Zustand, Redux  
+Back-end & CMS: REST APIs, Express, Prisma, PostgreSQL, PHP, WordPress  
+Architecture: MVC, Technical Specifications, EARS  
+Design & Collaboration: Figma, Adobe XD, Agile methodologies, Git
+
+<!-- Icons -->
+<img 
+  src="https://skillicons.dev/icons?i=react,ts,tailwind,materialui,redux,vitest,figma,nodejs,express,prisma,postgres,php,wordpress,git" 
+  height="42" 
+  alt="Tech Stack Icons"
+/>
+
