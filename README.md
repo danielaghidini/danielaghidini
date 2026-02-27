@@ -12,7 +12,7 @@ Design: Figma, Adobe XD
 
 <!-- Icons -->
 <img 
-  src="https://skillicons.dev/icons?i=react,ts,tailwind,materialui,zod,figma,nodejs,express,prisma,postgres" 
+  src="https://skillicons.dev/icons?i=next,react,ts,tailwind,figma,nodejs,express,prisma,postgres" 
   height="42" 
   alt="Tech Stack Icons"
 />
