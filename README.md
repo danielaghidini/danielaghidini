@@ -6,10 +6,9 @@
 
 <h3>🛠 Tech Stack</h3>
 
-Front-end: React, TypeScript, Tailwind, Material UI, Zustand, Redux  
-Back-end & CMS: REST APIs, Express, Prisma, PostgreSQL, PHP, WordPress  
-Architecture: MVC, Technical Specifications, EARS  
-Design & Collaboration: Figma, Adobe XD, Agile methodologies, Git
+Front-end: Next.js, React, TypeScript, Tailwind, Material UI, Zustand, Redux  
+Back-end & CMS: REST APIs, Express, Prisma, PostgreSQL
+Design: Figma, Adobe XD
 
 <!-- Icons -->
 <img 
