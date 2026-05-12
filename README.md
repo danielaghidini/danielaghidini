@@ -19,4 +19,4 @@
   alt="Tech Stack Icons"
 />
 
-Acesse meu site <a href="https://danielaghidini.dev/">danielaghidini.dev</a> feito com meu SaaS ♥ <a href="https://meusiteperfeito.com.br/">Meu Site Perfeito</a>
+Acesse meu SaaS ♥ <a href="https://meusiteperfeito.com.br/">Meu Site Perfeito</a>
