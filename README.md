@@ -12,11 +12,4 @@
 <li>Design: Figma, Adobe XD</li>
 </ul>
 
-
-<img 
-  src="https://skillicons.dev/icons?i=next,react,ts,tailwind,figma,nodejs,express,prisma,postgres" 
-  height="42" 
-  alt="Tech Stack Icons"
-/>
-
 Acesse meu SaaS ♥ <a href="https://meusiteperfeito.com.br/">Meu Site Perfeito</a>
